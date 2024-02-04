@@ -1,0 +1,48 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 3%;
+    padding: 3%;
+    background-color: rgb(182, 166, 19);
+}
+header{
+    background-color: rgb(158, 54, 203);
+    text-align: center;
+    padding: 2%;
+    color: antiquewhite;
+}
+/* .navitm{
+    display: inline;
+} */
+dt{
+    display: inline;
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+    color: rgb(16, 14, 147);
+}
+.register{
+    width: max-content;
+   margin-left: auto;
+   margin-right: auto;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    border: "";
+}
+tr,td,th{
+    border: 1px solid;
+    color: black;
+    padding: 5px;
+}
+.contact{
+    padding: 3px;
+    background-color: rgb(90, 28, 73);
+}
+footer{
+    text-align: left;
+    color: black;
+    background-color: rgb(29, 110, 16);
+    
+}
